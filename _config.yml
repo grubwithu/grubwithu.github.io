@@ -1,6 +1,6 @@
 # Site Settings
 title: "Qiming Guo - Personal Academic Homepage"
-description: "Cybersecurity Researcher | Robotic Kernel Security | NKLSTISS Lab"
+description: "Cybersecurity Researcher | Robotic Kernel Security | Embedded Systems Security"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grubwithu.github.io" # the base hostname & protocol for your site
 repository: "grubwithu/grubwithu.github.io"
@@ -35,7 +35,7 @@ theme: minima
 author:
   name: "Qiming Guo"
   email: "grub_49@163.com"
-  bio: "Cybersecurity Researcher | Robotic Kernel Security | NKLSTISS Lab"
+  bio: "Cybersecurity Researcher | Robotic Kernel Security | Embedded Systems"
   location: "Beijing, China"
   github: "grubwithu"
   linkedin: "" # leave empty for now
@@ -47,7 +47,7 @@ education:
   - degree: "Master's Degree"
     institution: "Beihang University (BUAA)"
     year: "Present"
-    details: "Computer Science, National Key Laboratory of Software and Information Security (NKLSTISS)"
+    details: "Computer Science, Research collaboration with NKLSTISS Lab"
   - degree: "Bachelor's Degree"
     institution: "Beihang University (BUAA)"
     year: "Previous"

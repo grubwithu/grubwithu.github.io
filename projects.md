@@ -8,6 +8,21 @@ permalink: /projects/
 
 ## Research Projects
 
+### Hardware-Assisted Fuzzing for Embedded Systems (EuroSys 2026)
+*2025-2026*
+
+**Description**: Research on effective on-hardware fuzzing techniques for embedded operating systems. This work addresses the limitations of traditional software-based fuzzing when applied to hardware-dependent embedded systems, particularly those with real-time constraints.
+
+**Technologies**: Hardware-in-the-loop testing, Custom FPGA setups, Embedded OS kernels (FreeRTOS, Zephyr, VxWorks), AFL-based fuzzing framework
+
+**Key Contributions**:
+- Developed hardware interaction modules for accurate vulnerability discovery
+- Designed evaluation framework for real-time operating system components
+- Implemented techniques to handle hardware dependencies in fuzzing workflows
+- Contributed to the EuroSys 2026 paper "Effective On-Hardware Fuzzing of Embedded Operating Systems"
+
+**Outcome**: Conference paper accepted at EuroSys 2026 (Third author)
+
 ### Robotic Kernel Security Framework
 *Present*
 

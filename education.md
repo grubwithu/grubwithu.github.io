@@ -13,8 +13,8 @@ permalink: /education/
 *Present*
 
 **Location**: Beijing, China  
-**Laboratory**: National Key Laboratory of Software and Information Security (NKLSTISS)  
-**Research Focus**: Robotic Kernel Security  
+**Research Focus**: Robotic Kernel Security, Embedded Systems Security  
+**Research Collaboration**: National Key Laboratory of Software and Information Security (NKLSTISS)  
 **Advisor**: *To be updated*  
 **Expected Graduation**: *To be updated*
 
@@ -25,9 +25,11 @@ permalink: /education/
 - Formal Methods in Security
 - Machine Learning for Security
 - Secure Software Engineering
+- Hardware Security
 
 **Research Activities**:
 - Investigating kernel-level vulnerabilities in robotic operating systems
+- Research on hardware-assisted fuzzing techniques for embedded OS (EuroSys 2026)
 - Developing security frameworks for real-time robotic systems
 - Analyzing secure communication protocols for robotic networks
 - Contributing to open source security projects

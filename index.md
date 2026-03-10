@@ -12,8 +12,8 @@ description: "Cybersecurity Researcher | Robotic Kernel Security"
     <div class="profile-info">
       <h1 class="profile-name">Qiming Guo</h1>
       <p class="profile-title">Cybersecurity Researcher</p>
-      <p class="profile-subtitle">Robotic Kernel Security | NKLSTISS Lab</p>
-      <p class="profile-institution">Beihang University (BUAA)</p>
+      <p class="profile-subtitle">Robotic Kernel Security | Cybersecurity Researcher</p>
+      <p class="profile-institution">Beihang University (BUAA) & NKLSTISS Lab</p>
       
       <div class="profile-location">
         <i class="fas fa-map-marker-alt"></i> Beijing, China
@@ -40,15 +40,19 @@ description: "Cybersecurity Researcher | Robotic Kernel Security"
   <div class="about-section">
     <h2>About Me</h2>
     <p>
-      I am a Master's student in Computer Science at Beihang University (BUAA), 
-      conducting research at the National Key Laboratory of Software and Information Security (NKLSTISS). 
-      My research focuses on <strong>Robotic Kernel Security</strong>, working at the intersection of 
+      I am a Master's student in Computer Science at Beihang University (BUAA). 
+      I conduct research at the National Key Laboratory of Software and Information Security (NKLSTISS), 
+      focusing on <strong>Robotic Kernel Security</strong> at the intersection of 
       cybersecurity, operating systems, and robotic systems.
     </p>
     <p>
-      I'm passionate about securing the fundamental software layers that control modern robotic systems, 
-      particularly focusing on kernel-level vulnerabilities, real-time operating system security, 
+      My research addresses security challenges in the fundamental software layers that control modern robotic systems, 
+      with particular emphasis on kernel-level vulnerabilities, real-time operating system security, 
       and secure communication protocols in cyber-physical systems.
+    </p>
+    <p>
+      I have contributed to research on embedded system security, including work on hardware-assisted fuzzing techniques, 
+      as demonstrated in my EuroSys 2026 publication.
     </p>
   </div>
 
@@ -69,8 +73,8 @@ description: "Cybersecurity Researcher | Robotic Kernel Security"
       <p class="education-degree">Master of Engineering in Computer Science</p>
       <p class="education-period">Present</p>
       <p class="education-details">
-        National Key Laboratory of Software and Information Security (NKLSTISS)<br>
-        Research Focus: Robotic Kernel Security
+        Research Focus: Robotic Kernel Security<br>
+        Research Collaboration: NKLSTISS Lab
       </p>
     </div>
     <div class="education-item">
