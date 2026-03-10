@@ -99,10 +99,6 @@ description: "Cybersecurity Researcher | Robotic Kernel Security"
         <i class="fas fa-code"></i>
         <span>Projects</span>
       </a>
-      <a href="/awards" class="link-card">
-        <i class="fas fa-award"></i>
-        <span>Awards</span>
-      </a>
       <a href="/education" class="link-card">
         <i class="fas fa-graduation-cap"></i>
         <span>Education</span>
