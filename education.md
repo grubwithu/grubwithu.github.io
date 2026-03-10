@@ -8,31 +8,30 @@ permalink: /education/
 
 ## Current
 
-### Beihang University (BUAA)
-*Master of Engineering in Computer Science*  
+### National Key Laboratory of Software and Information Security (NKLSTISS)
+*Master's Student in Cybersecurity*  
 *Present*
 
 **Location**: Beijing, China  
 **Research Focus**: Robotic Kernel Security, Embedded Systems Security  
-**Research Collaboration**: National Key Laboratory of Software and Information Security (NKLSTISS)  
 **Advisor**: *To be updated*  
 **Expected Graduation**: *To be updated*
 
-**Coursework**:
-- Advanced Operating Systems Security
-- Cyber-Physical Systems Security
-- Embedded Systems Design
-- Formal Methods in Security
-- Machine Learning for Security
-- Secure Software Engineering
-- Hardware Security
+**Research Areas**:
+- Robotic operating system security and kernel vulnerabilities
+- Hardware-assisted fuzzing techniques for embedded systems
+- Real-time operating system security for cyber-physical systems
+- Secure communication protocols in robotic networks
 
-**Research Activities**:
-- Investigating kernel-level vulnerabilities in robotic operating systems
-- Research on hardware-assisted fuzzing techniques for embedded OS (EuroSys 2026)
-- Developing security frameworks for real-time robotic systems
-- Analyzing secure communication protocols for robotic networks
-- Contributing to open source security projects
+**Key Research Projects**:
+- Hardware-assisted fuzzing framework for embedded OS (EuroSys 2026 publication)
+- Robotic kernel security analysis and protection mechanisms
+- Security testing methodologies for real-time embedded systems
+
+**Laboratory Work**:
+- Conducting security research in a national key laboratory environment
+- Collaborating with researchers on cutting-edge cybersecurity projects
+- Developing practical security solutions for industrial and academic applications
 
 ## Previous
 

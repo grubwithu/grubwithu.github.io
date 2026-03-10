@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### EuroSys 2026
 **Effective On-Hardware Fuzzing of Embedded Operating Systems**  
-*Yuheng Shen (Tsinghua University), Jianzhong Liu (Shandong University), **Qiming Guo** (Beihang University), Yifei Chu (Tsinghua University), Qiang Zhang (Hunan University), Heyuan Shi (Central South University), Yu Jiang (Tsinghua University)*
+*Yuheng Shen (Tsinghua University), Jianzhong Liu (Shandong University), **Qiming Guo** (NKLSTISS Lab), Yifei Chu (Tsinghua University), Qiang Zhang (Hunan University), Heyuan Shi (Central South University), Yu Jiang (Tsinghua University)*
 
 **Abstract**: This paper presents a novel hardware-assisted fuzzing framework for embedded operating systems. Traditional software-based fuzzing approaches face challenges when testing embedded systems due to hardware dependencies and real-time constraints. Our approach leverages on-hardware execution to achieve more accurate vulnerability discovery while maintaining efficiency.
 
