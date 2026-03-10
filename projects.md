@@ -9,9 +9,9 @@ permalink: /projects/
 ## Research Projects
 
 ### Hardware-Assisted Fuzzing for Embedded Systems (EuroSys 2026)
-*2025-2026*
+*Undergraduate Research (Senior Year)*
 
-**Description**: Research on effective on-hardware fuzzing techniques for embedded operating systems. This work addresses the limitations of traditional software-based fuzzing when applied to hardware-dependent embedded systems, particularly those with real-time constraints.
+**Description**: Research on effective on-hardware fuzzing techniques for embedded operating systems, conducted during my senior year at Beihang University. This work addresses the limitations of traditional software-based fuzzing when applied to hardware-dependent embedded systems, particularly those with real-time constraints.
 
 **Technologies**: Hardware-in-the-loop testing, Custom FPGA setups, Embedded OS kernels (FreeRTOS, Zephyr, VxWorks), AFL-based fuzzing framework
 
@@ -21,7 +21,13 @@ permalink: /projects/
 - Implemented techniques to handle hardware dependencies in fuzzing workflows
 - Contributed to the EuroSys 2026 paper "Effective On-Hardware Fuzzing of Embedded Operating Systems"
 
-**Outcome**: Conference paper accepted at EuroSys 2026 (Third author)
+**Timeline & Context**:
+- Conducted during undergraduate studies at Beihang University
+- Paper submitted and accepted during senior year
+- Author affiliation reflects undergraduate institution (Beihang University)
+- This research sparked my interest in embedded systems security, leading to my current focus on robotic kernel security
+
+**Outcome**: Conference paper accepted at EuroSys 2026 (Third author, Beihang University affiliation)
 
 ### Robotic Kernel Security Framework
 *Present*

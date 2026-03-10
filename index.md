@@ -50,9 +50,9 @@ description: "Cybersecurity Researcher | Robotic Kernel Security"
       and hardware-assisted security testing techniques.
     </p>
     <p>
-      I have contributed to significant research in embedded system security, including work on hardware-assisted fuzzing techniques 
-      published at EuroSys 2026. My research aims to improve the security posture of cyber-physical systems through 
-      innovative testing and protection mechanisms.
+      During my undergraduate studies at Beihang University, I contributed to research on hardware-assisted fuzzing techniques, 
+      resulting in a publication at EuroSys 2026. This early research experience sparked my interest in embedded systems security 
+      and laid the foundation for my current focus on robotic kernel security.
     </p>
   </div>
 

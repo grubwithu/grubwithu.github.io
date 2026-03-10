@@ -24,9 +24,9 @@ permalink: /education/
 - Secure communication protocols in robotic networks
 
 **Key Research Projects**:
-- Hardware-assisted fuzzing framework for embedded OS (EuroSys 2026 publication)
 - Robotic kernel security analysis and protection mechanisms
 - Security testing methodologies for real-time embedded systems
+- *Note: Hardware-assisted fuzzing research (EuroSys 2026) was conducted during undergraduate studies at Beihang University*
 
 **Laboratory Work**:
 - Conducting security research in a national key laboratory environment
