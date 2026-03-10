@@ -1,0 +1,76 @@
+# Site Settings
+title: "Qiming Guo - Personal Academic Homepage"
+description: "Cybersecurity Researcher | Robotic Kernel Security | NKLSTISS Lab"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://grubwithu.github.io" # the base hostname & protocol for your site
+repository: "grubwithu/grubwithu.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude: ["README.md"]
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme (minimal)
+theme: minima
+
+# Custom settings
+author:
+  name: "Qiming Guo"
+  email: "grub_49@163.com"
+  bio: "Cybersecurity Researcher | Robotic Kernel Security | NKLSTISS Lab"
+  location: "Beijing, China"
+  github: "grubwithu"
+  linkedin: "" # leave empty for now
+  twitter: "" # leave empty for now
+  google_scholar: "" # leave empty for now
+  orcid: "" # leave empty for now
+
+education:
+  - degree: "Master's Degree"
+    institution: "Beihang University (BUAA)"
+    year: "Present"
+    details: "Computer Science, National Key Laboratory of Software and Information Security (NKLSTISS)"
+  - degree: "Bachelor's Degree"
+    institution: "Beihang University (BUAA)"
+    year: "Previous"
+    details: "Computer Science, School of Computer Science and Engineering"
+
+research_interests:
+  - "Robotic Kernel Security"
+  - "Operating System Security"
+  - "Cyber-Physical Systems Security"
+  - "Embedded Systems Security"
+
+social_links:
+  github: "https://github.com/grubwithu"
+  email: "mailto:grub_49@163.com"
+
+# Navigation
+header_pages:
+  - about.md
+  - publications.md
+  - projects.md
+  - awards.md
+  - education.md
+
+# Design
+color_theme: "light"
+accent_color: "#2c3e50"
